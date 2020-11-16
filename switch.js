@@ -3,7 +3,8 @@ let a = 2+3;
      case 3:
          console.log('wrong answer');
          break;
-         case 4:             console.log('close! but still the wrong answer');
+         case 4:             
+            console.log('close! but still the wrong answer');
              break;
              case 2:
                  console.log('totally wrong.');
