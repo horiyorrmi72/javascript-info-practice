@@ -6,4 +6,4 @@ while (sum < 5){
     if(sum >=3) break;
 }
 console.log('our person you don come here before');
-// here we use the 'break' word or directive to exit the loop when it is equals or greater 3.
+// here we use the 'break' word or directive to exit the loop when it is equals or greater than 3.
